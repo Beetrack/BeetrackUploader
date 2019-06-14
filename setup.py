@@ -4,8 +4,8 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="beetrack_uploader-nkipreos",
-    version="0.0.1",
+    name="beetrack_uploader",
+    version="0.0.2",
     author="Nicolas Kipreos",
     author_email="nicolas.kipreos@beetrack.com",
     description="A simple and small wrapper for uploading files to Beetrack using Python scripts",
